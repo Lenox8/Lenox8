@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lenox</h1>
 <h3 align="center">A passionate full stack developer from Mozambique</h3>
 
-- 🔭 I’m currently working on [time capsule project](https://capsula-app-front-ned.vercel.app/)
 
 - 🌱 I’m currently learning **Python, and NextJs**
 
