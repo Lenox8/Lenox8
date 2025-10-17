@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full stack developer from Mozambique</h3>
 
 
-- 🌱 I’m currently learning **Python, and NextJs**
 
 - 👯 I’m looking to collaborate on **a real chat application with my class mates**
 
